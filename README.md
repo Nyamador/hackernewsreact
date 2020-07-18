@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project makes use of the hacker news api and has the capability to 
+Paginate fetched data , cached previously collected data and more 
+
 ## Running on Repl.it
 
 Simply hit run once and start coding. Will hot reload the web view. 
